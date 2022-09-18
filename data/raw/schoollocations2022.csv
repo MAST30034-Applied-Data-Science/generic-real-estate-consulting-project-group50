@@ -1567,12 +1567,12 @@ Government,1,8913,Boronia K-12 College,Pri/Sec,O,35-37 Albert Avenue,,Boronia,VI
 Government,1,8914,Tarneit P-9 College,Pri/Sec,O,21-23 Brinbrook Street,,Tarneit,VIC,3029,PO Box 8268,,Tarneit,VIC,3029,03 9749 0506,726,Wyndham (C),144.67982,-37.83745
 Government,1,8915,Benalla P-12 College,Pri/Sec,O,20 Faithfull Street,,Benalla,VIC,3672,P O Box 819,,Benalla,VIC,3672,03 5761 2777,101,Benalla (RC),145.96385,-36.55337
 Government,1,8916,Parkville College,Special,O,900-930 Park Street,,Parkville,VIC,3052,930 Park Street,,Parkville,VIC,3052,03 5421 3100,460,Melbourne (C),144.94736,-37.77682
-Government,1,8917,Centre for Higher Education Studies,Secondary,O,669 Chapel Street,,South Yarra,VIC,3141,669 Chapel Street,,South Yarra,VIC,3141,03,635,Stonnington (C),144.99612,-37.83615
+Government,1,8917,Centre for Higher Education Studies,Secondary,O,669 Chapel Street,,South Yarra,VIC,3141,669 Chapel Street,,South Yarra,VIC,3141,3,635,Stonnington (C),144.99612,-37.83615
 Independent,2,1,Wesley College,Pri/Sec,O,577 St Kilda Road,,MELBOURNE,VIC,3004,577 St Kilda Road,,MELBOURNE,VIC,3004,03 8102 6100,460,Melbourne (C),144.98214,-37.84883
 Independent,2,5,Korowa Anglican Girls' School,Pri/Sec,O,10 - 16 Ranfurlie Crescent,,GLEN IRIS,VIC,3146,10 - 16 Ranfurlie Crescent,,GLEN IRIS,VIC,3146,03 9811 0200,635,Stonnington (C),145.05464,-37.86145
 Catholic,2,20,Parade College,Secondary,O,1436 Plenty Road,,BUNDOORA,VIC,3083,1436 Plenty Road,,BUNDOORA,VIC,3083,03 9468 3300,66,Banyule (C),145.06698,-37.69018
 Catholic,2,25,Simonds Catholic College,Secondary,O,273 Victoria Street,,WEST MELBOURNE,VIC,3003,273 Victoria Street,,WEST MELBOURNE,VIC,3003,03 9321 9200,460,Melbourne (C),144.95288,-37.80597
-Catholic,2,26,St Mary’s College Melbourne,Secondary,O,11 Westbury Street,,ST KILDA EAST,VIC,3183,PO Box 258,,ST KILDA,VIC,3182,03 9529 6611,590,Port Phillip (C),144.997,-37.85936
+Catholic,2,26,St Maryï¿½s College Melbourne,Secondary,O,11 Westbury Street,,ST KILDA EAST,VIC,3183,PO Box 258,,ST KILDA,VIC,3182,03 9529 6611,590,Port Phillip (C),144.997,-37.85936
 Catholic,2,28,St Patrick's College Ballarat,Secondary,O,1431 Sturt Street,,BALLARAT,VIC,3350,Locked Bag 31,,BALLARAT,VIC,3350,03 5331 1688,57,Ballarat (C),143.83156,-37.55971
 Catholic,2,29,St Patrick's School,Primary,O,119 Drummond Street South,,BALLARAT,VIC,3350,PO Box 82W,,BALLARAT WEST,VIC,3350,03 5332 7680,57,Ballarat (C),143.84715,-37.5644
 Catholic,2,30,St Alipius' Parish School,Primary,O,106-108 Victoria Street,,BALLARAT EAST,VIC,3350,106-108 Victoria Street,,BALLARAT EAST,VIC,3350,03 5331 1816,57,Ballarat (C),143.87401,-37.5617
@@ -1583,7 +1583,7 @@ Catholic,2,77,Sacred Heart School,Primary,O,20 Newcastle St,,NEWPORT,VIC,3015,20
 Catholic,2,78,St Mary's School,Primary,O,118 Cecil Street,,WILLIAMSTOWN,VIC,3016,PO Box 283,,WILLIAMSTOWN,VIC,3016,03 9397 7926,311,Hobsons Bay (C),144.90089,-37.8635
 Independent,2,83,Ruyton Girls' School,Pri/Sec,O,12 Selbourne Road,,KEW,VIC,3101,12 Selbourne Road,,KEW,VIC,3101,03 9819 2422,111,Boroondara (C),145.03918,-37.81111
 Independent,2,96,Caulfield Grammar School,Pri/Sec,O,217 Glen Eira Road,,ST KILDA EAST,VIC,3183,PO Box 610,,ELSTERNWICK,VIC,3185,03 9524 6300,231,Glen Eira (C),145.00489,-37.87738
-Catholic,2,98,St Michael’s Primary School,Primary,O,8-14 Brougham Street,,NORTH MELBOURNE,VIC,3051,8-14 Brougham Street,,NORTH MELBOURNE,VIC,3051,03 9329 9206,460,Melbourne (C),144.94625,-37.7933
+Catholic,2,98,St Michaelï¿½s Primary School,Primary,O,8-14 Brougham Street,,NORTH MELBOURNE,VIC,3051,8-14 Brougham Street,,NORTH MELBOURNE,VIC,3051,03 9329 9206,460,Melbourne (C),144.94625,-37.7933
 Catholic,2,104,St Patrick's School,Primary,O,Ovens Street,,WANGARATTA,VIC,3677,Ovens Street,,WANGARATTA,VIC,3677,03 5721 5795,670,Wangaratta (RC),146.32195,-36.35616
 Catholic,2,107,St Mary's School,Primary,O,214 Dandenong Road,,ST KILDA EAST,VIC,3183,214 Dandenong Road,,ST KILDA EAST,VIC,3183,03 9510 7420,590,Port Phillip (C),144.99759,-37.85902
 Catholic,2,111,Assumption College,Secondary,O,Sutherland Street,,KILMORE,VIC,3764,PO Box 111,,KILMORE,VIC,3764,03 5783 5000,485,Mitchell (S),144.94763,-37.30101
@@ -1798,7 +1798,7 @@ Independent,2,1304,Kingswood College,Pri/Sec,O,355 Station Street,,BOX HILL,VIC,
 Catholic,2,1309,St Joseph's School,Primary,O,58 Waterloo Road,,TRAFALGAR,VIC,3824,Private Bag 3,,TRAFALGAR,VIC,3824,03 5633 1151,83,Baw Baw (S),146.15219,-38.20721
 Catholic,2,1310,St Patrick's School,Primary,O,3 Dalny Road,,MURRUMBEENA,VIC,3163,3 Dalny Road,,MURRUMBEENA,VIC,3163,03 9569 7487,231,Glen Eira (C),145.06527,-37.90178
 Catholic,2,1311,St Roch's School,Primary,O,Glenvale Road,,GLEN IRIS,VIC,3146,Glenvale Road,,GLEN IRIS,VIC,3146,03 9885 7704,635,Stonnington (C),145.05231,-37.85736
-Independent,2,1316,St Margaret’s Berwick Grammar,Pri/Sec,O,27-47 Gloucester Ave,,BERWICK,VIC,3806,PO Box 138,,BERWICK,VIC,3806,03 9703 8111,161,Casey (C),145.34654,-38.03535
+Independent,2,1316,St Margaretï¿½s Berwick Grammar,Pri/Sec,O,27-47 Gloucester Ave,,BERWICK,VIC,3806,PO Box 138,,BERWICK,VIC,3806,03 9703 8111,161,Casey (C),145.34654,-38.03535
 Independent,2,1322,Camberwell Girls Grammar School,Pri/Sec,O,2 Torrington Street,,CANTERBURY,VIC,3126,2 Torrington Street,,CANTERBURY,VIC,3126,03 9813 1166,111,Boroondara (C),145.0597,-37.81821
 Catholic,2,1328,St Anne's School,Primary,O,7-19 Beresford Street,,KEW EAST,VIC,3102,7-19 Beresford Street,,KEW EAST,VIC,3102,03 9859 4116,111,Boroondara (C),145.04981,-37.79538
 Catholic,2,1342,Our Lady of Perpetual Help School,Primary,O,2 Wilana Street,,RINGWOOD,VIC,3134,2 Wilana Street,,RINGWOOD,VIC,3134,03 9870 7227,441,Maroondah (C),145.23218,-37.81642
@@ -1863,7 +1863,7 @@ Catholic,2,1525,St Thomas Aquinas School,Primary,O,51 Plume Street,,NORLANE,VIC,
 Catholic,2,1526,St Pius X School,Primary,O,431 Waterdale Road,,HEIDELBERG WEST,VIC,3081,431 Waterdale Road,,HEIDELBERG WEST,VIC,3081,03 9457 3776,66,Banyule (C),145.04629,-37.74692
 Catholic,2,1527,St Margaret Mary's School,Primary,O,181 Hudsons Road,,SPOTSWOOD,VIC,3015,181 Hudsons Road,,SPOTSWOOD,VIC,3015,03 9391 3118,311,Hobsons Bay (C),144.87773,-37.82908
 Catholic,2,1528,Monivae College,Secondary,O,133 Ballarat Road,,HAMILTON,VIC,3300,PO Box 423,,HAMILTON,VIC,3300,03 5551 1200,626,Southern Grampians (S),142.04945,-37.74204
-Catholic,2,1529,St Mary Magdalen’s School,Primary,O,15 Bambil Street,,CHADSTONE,VIC,3148,15 Bambil Street,,CHADSTONE,VIC,3148,03 9807 0315,497,Monash (C),145.1012,-37.87978
+Catholic,2,1529,St Mary Magdalenï¿½s School,Primary,O,15 Bambil Street,,CHADSTONE,VIC,3148,15 Bambil Street,,CHADSTONE,VIC,3148,03 9807 0315,497,Monash (C),145.1012,-37.87978
 Catholic,2,1530,St Anthony's School,Primary,O,90 Buckley Street,,NOBLE PARK,VIC,3174,90 Buckley Street,,NOBLE PARK,VIC,3174,03 9546 0044,267,Greater Dandenong (C),145.17243,-37.97171
 Catholic,2,1531,St Peter's School,Primary,O,16 Mary Street,,CLAYTON,VIC,3168,16 Mary Street,,CLAYTON,VIC,3168,03 9544 3032,497,Monash (C),145.12186,-37.92314
 Catholic,2,1532,St Joseph's School,Primary,O,33 Lascelles Street,,HOPETOUN,VIC,3396,PO Box 186,,HOPETOUN,VIC,3396,03 5083 3296,763,Yarriambiack (S),142.36219,-35.72393
@@ -2257,7 +2257,7 @@ Independent,2,2102,Hoa Nghiem Primary School,Primary,O,442 - 448 Springvale Road
 Independent,2,2103,Al Iman College,Pri/Sec,O,20-40 Rees Road,,MELTON SOUTH,VIC,3338,PO Box 2337,,MELTON SOUTH,VIC,3338,03 9743 4140,465,Melton (C),144.56548,-37.70712
 Independent,2,2104,Edinburgh College,Pri/Sec,O,33-61 Edinburgh Road,,LILYDALE,VIC,3140,33-61 Edinburgh Road,,LILYDALE,VIC,3140,03 9728 2211,745,Yarra Ranges (S),145.35199,-37.78489
 Independent,2,2105,Giant Steps Melbourne,Primary,O,11 Malmsbury Street,,KEW,VIC,3101,PO Box 586,,KEW,VIC,3101,03 9853 9578,111,Boroondara (C),145.03148,-37.80222
-Independent,2,2106,Harkaway Hills College,Pri/Sec,O,20 A’Beckett Road,,NARRE WARREN NORTH,VIC,3804,PO Box 420,,NARRE WARREN NORTH,VIC,3804,03 9796 9821,161,Casey (C),145.31587,-37.97749
+Independent,2,2106,Harkaway Hills College,Pri/Sec,O,20 Aï¿½Beckett Road,,NARRE WARREN NORTH,VIC,3804,PO Box 420,,NARRE WARREN NORTH,VIC,3804,03 9796 9821,161,Casey (C),145.31587,-37.97749
 Independent,2,2107,Newmark Primary,Primary,O,126-128 Nelson Place,,WILLIAMSTOWN,VIC,3016,126-128 Nelson Place,,WILLIAMSTOWN,VIC,3016,03 8560 4466,311,Hobsons Bay (C),144.9052,-37.86311
 Independent,2,2108,Phillip Island Village School,Primary,O,479 Berrys Beach Road,,VENTNOR,VIC,3922,PO Box 144,,KOONWARRA,VIC,3954,03 5956 8568,74,Bass Coast (S),145.20147,-38.50776
 Independent,2,2109,Advance College of Education Incorporated,Special,O,6 Henry Wilson Drive,,ROSEBUD,VIC,3939,PO BOX 524,,ROSEBUD WEST,VIC,3939,03 5986 4623,534,Mornington Peninsula (S),144.88506,-38.38285
@@ -2281,20 +2281,20 @@ Independent,2,2227,Fitra Community School,Primary,O,43-45 Westall Road,,CLAYTON 
 Independent,2,2228,Clyde Grammar,Primary,O,110 Smiths Lane,,CLYDE NORTH,VIC,3978,110 Smiths Lane,,CLYDE NORTH,VIC,3978,03 8903 4500,161,Casey (C),145.37876,-38.10602
 Catholic,2,2229,St Catherine of Siena Catholic Primary School,Primary,O,125 Warralily Boulevard,,ARMSTRONG CREEK,VIC,3217,125 Warralily Boulevard,,ARMSTRONG CREEK,VIC,3217,03 5264 5934,275,Greater Geelong (C),144.36945,-38.24009
 Independent,2,2230,Village High School,Secondary,O,450 Dalyston-Glen Forbes Road,,RYANSTON,VIC,3992,PO Box 863,,WONTHAGGI,VIC,3995,03 5678 7424,74,Bass Coast (S),145.55883,-38.52856
-Catholic,2,2231,Iona College Geelong,Secondary,O,242-280 Horseshoe Bend Road,,CHARLEMONT,VIC,3217,242-280 Horseshoe Bend Road,,CHARLEMONT,VIC,3217,03-,275,Greater Geelong (C),144.35671,-38.21912
+Catholic,2,2231,Iona College Geelong,Secondary,O,242-280 Horseshoe Bend Road,,CHARLEMONT,VIC,3217,242-280 Horseshoe Bend Road,,CHARLEMONT,VIC,3217,-3,275,Greater Geelong (C),144.35671,-38.21912
 Independent,2,2232,Tombolo Academy,Special,O,453 Bluff Road,,HAMPTON,VIC,3188,453 Bluff Road,Charman Road,HAMPTON,VIC,3188,03 9598 7552,91,Bayside (C),145.0235,-37.93846
 Independent,2,2233,Djerriwarrh Community & Education Services | Djerriwarrh Community College,Secondary,O,239 Station Rd,,MELTON,VIC,3337,239 Station Rd,,MELTON,VIC,3337,03 8746 1000,465,Melton (C),144.57797,-37.68674
-Independent,2,2234,Lyrebird College,Special,O,5/12 Kelso Street,,COLDSTREAM,VIC,3770,PO Box 254,,COLDSTREAM,VIC,3770,03-,745,Yarra Ranges (S),145.38232,-37.73335
-Catholic,2,2235,St Joseph’s Catholic Primary School,Primary,O,50 Treeve Parkway,,WERRIBEE,VIC,3030,50 Treeve Parkway,,WERRIBEE,VIC,3030,03 8742 3381,726,Wyndham (C),144.61028,-37.9033
+Independent,2,2234,Lyrebird College,Special,O,5/12 Kelso Street,,COLDSTREAM,VIC,3770,PO Box 254,,COLDSTREAM,VIC,3770,-3,745,Yarra Ranges (S),145.38232,-37.73335
+Catholic,2,2235,St Josephï¿½s Catholic Primary School,Primary,O,50 Treeve Parkway,,WERRIBEE,VIC,3030,50 Treeve Parkway,,WERRIBEE,VIC,3030,03 8742 3381,726,Wyndham (C),144.61028,-37.9033
 Independent,2,2236,Youth2Industry College,Secondary,O,"Level 2, 220 Albert Road",,SOUTH MELBOURNE,VIC,3205,"Level 2, 220 Albert Road",,SOUTH MELBOURNE,VIC,3205,03 9088 1110,939,Unincorporated Vic,144.96665,37.83731
 Catholic,2,2237,St Angela of the Cross Primary School,Primary,O,181 Mills Road,,WARRAGUL,VIC,3820,181 Mills Road,,WARRAGUL,VIC,3820,03 5622 9800,83,Baw Baw (S),145.96161,-38.14153
-Independent,2,2238,My College,Primary,O,92 – 96 Railway Crescent,,DALLAS,VIC,3047,92 – 96 Railway Crescent,,DALLAS,VIC,3047,03 9309 1515,327,Hume (C),144.92369,-37.67575
-Independent,2,2239,Woodline Primary,Primary,O,405 Barrabool Road,,CERES,VIC,3221,405 Barrabool Road,,CERES,VIC,3221,03-,275,Greater Geelong (C),144.28535,-38.17178
-Catholic,2,2240,Ignatius Learning Centre,Secondary,O,326 Church Street,,RICHMOND,VIC,3121,326 Church Street,,RICHMOND,VIC,3121,03-,735,Yarra (C),144.99848,-37.82191
-Independent,2,2241,Muhammadiyah Australia College,Primary,O,1-3 Killarney Drive,,MELTON,VIC,3337,1-3 Killarney Drive,,MELTON,VIC,3337,03-,465,Melton (C),144.60498,-37.68243
+Independent,2,2238,My College,Primary,O,92 ï¿½ 96 Railway Crescent,,DALLAS,VIC,3047,92 ï¿½ 96 Railway Crescent,,DALLAS,VIC,3047,03 9309 1515,327,Hume (C),144.92369,-37.67575
+Independent,2,2239,Woodline Primary,Primary,O,405 Barrabool Road,,CERES,VIC,3221,405 Barrabool Road,,CERES,VIC,3221,-3,275,Greater Geelong (C),144.28535,-38.17178
+Catholic,2,2240,Ignatius Learning Centre,Secondary,O,326 Church Street,,RICHMOND,VIC,3121,326 Church Street,,RICHMOND,VIC,3121,-3,735,Yarra (C),144.99848,-37.82191
+Independent,2,2241,Muhammadiyah Australia College,Primary,O,1-3 Killarney Drive,,MELTON,VIC,3337,1-3 Killarney Drive,,MELTON,VIC,3337,-3,465,Melton (C),144.60498,-37.68243
 Catholic,2,2242,St Lawrence of Brindisi Catholic Primary School,Primary,O,31 Waterway Boulevard,,WEIR VIEWS,VIC,3338,31 Waterway Boulevard,,WEIR VIEWS,VIC,3338,03 8099 6699,465,Melton (C),144.57246,-37.73305
-Independent,2,2243,Lysterfield Lake College,Primary,O,20 A’Beckett Road,,NARRE WARREN NORTH,VIC,3804,20 A’Beckett Road,,NARRE WARREN NORTH,VIC,3804,03-,161,Casey (C),145.31604,-37.97748
+Independent,2,2243,Lysterfield Lake College,Primary,O,20 Aï¿½Beckett Road,,NARRE WARREN NORTH,VIC,3804,20 Aï¿½Beckett Road,,NARRE WARREN NORTH,VIC,3804,-3,161,Casey (C),145.31604,-37.97748
 Independent,2,2244,Plenty River College,Secondary,O,"Unit 5, 9 Danaher Drive",,SOUTH MORANG,VIC,3752,"Unit 5, 9 Danaher Drive",,SOUTH MORANG,VIC,3752,03 9435 9060,707,Whittlesea (C),145.08148,-37.64875
 Catholic,2,2245,Holy Cross Catholic Primary School,Primary,O,2-14 Carlingford Rd,,MICKLEHAM,VIC,3064,2-14 Carlingford Rd,,MICKLEHAM,VIC,3064,03 9216 4200,327,Hume (C),144.9052,-37.53046
-Independent,2,2246,Sidrah Gardens School,Primary,O,434-442 Belgrave-Hallam Road,,NARRE WARREN NORTH,VIC,3804,434-442 Belgrave-Hallam Road,,NARRE WARREN NORTH,VIC,3804,03-,161,Casey (C),145.31589,-37.97324
+Independent,2,2246,Sidrah Gardens School,Primary,O,434-442 Belgrave-Hallam Road,,NARRE WARREN NORTH,VIC,3804,434-442 Belgrave-Hallam Road,,NARRE WARREN NORTH,VIC,3804,-3,161,Casey (C),145.31589,-37.97324
 Independent,2,2247,Mountain District Community College,Secondary,O,13-15 The Avenue,,FERNTREE GULLY,VIC,3156,13-15 The Avenue,,FERNTREE GULLY,VIC,3156,03 9758 7859,367,Knox (C),145.29327,-37.88319
