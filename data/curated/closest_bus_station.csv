@@ -1,14 +1,256 @@
-,Postcode,Centroid,Location,Stop_Name,Distance,Duration
-9,3177,-37.990985 145.237462,"-37.9911360053, 145.2387111124",Holy Family School/96 Power Rd (Doveton),0.4 km,1 min
-132,3802,-37.971763 145.255599,"-37.9676250404, 145.2538901471",Grove End Rd/Kennington Park Dr (Endeavour Hills),0.6 km,1 min
-188,3803,-38.009435 145.265524,"-38.0095440667, 145.2725212316",Abbott Rd/Hallam South Rd (Hallam),0.7 km,1 min
-228,3804,-37.980059 145.325994,"-37.9821140053, 145.314312838",Randle Ct/Heatherton Rd (Narre Warren North),1.3 km,3 mins
-290,3805,-38.037026 145.304198,"-38.0343169947, 145.3053009618",Ray Bastin Reserve/Narre Warren-Cranbourne Rd (Narre Warren),0.3 km,1 min
-546,3806,-38.025018 145.349488,"-38.0265930112, 145.3476430218",Russel Ave/Harkaway Rd (Berwick),0.7 km,1 min
-668,3807,-38.048316 145.371635,"-38.0534299268, 145.3637019079",Brookvale Cl/Soldiers Rd (Beaconsfield),1.7 km,3 mins
-679,3912,-38.217991 145.227373,"-38.2022119452, 145.2353500852",Baxter-Tooradin Rd/Pearcedale Rd (Pearcedale),2.7 km,4 mins
-703,3975,-38.05354 145.231114,"-38.0566319639, 145.2452460704",Carabeen Way/Moreton Bay Bvd (Lyndhurst),1.4 km,3 mins
-784,3976,-38.043995 145.264296,"-38.0414469394, 145.2658920648",Rendell Pl/Hallam Rd (Hampton Park),0.6 km,1 min
-862,3977,-38.1466398 145.2695101,"-38.0876909541, 145.2790410327",Lesdon Ave/South Gippsland Hwy (Cranbourne),10.1 km,14 mins
-1078,3978,-38.135009 145.384606,"-38.0939910231, 145.3322030601",Hamersley Dr/Berwick-Cranbourne Rd (Clyde North),10.2 km,14 mins
-1137,3980,-38.204448 145.356937,"-38.2107989603, 145.3441258112",Warneet Rd/Blind Bight Rd (Blind Bight),3.7 km,4 mins
+,Postcode,Centroid,Bus_Station_Name,Location,Distance,Duration
+22,3000,-37.817403 144.956776,King St/Lonsdale St (Melbourne City),"-37.814288, 144.955124",0.4 km,2 mins
+36,3002,-37.818517 144.982207,Wellington Pde/Hoddle St (East Melbourne),"-37.817112, 144.989865",1.0 km,4 mins
+55,3003,-37.810871 144.949592,Adderley St/Dudley St (West Melbourne),"-37.810837, 144.948404",0.2 km,1 min
+60,3004,-37.844246 144.970161,Domain Rd/Birdwood Ave (South Yarra),"-37.833812, 144.982571",2.9 km,7 mins
+72,3006,-37.82528675 144.9520744,Clarendon St/City Rd (Southbank),"-37.828235, 144.957512",1.2 km,4 mins
+86,3008,-37.814719 144.948039,Festival Hall/Dudley St (West Melbourne),"-37.811035, 144.947354",0.6 km,1 min
+92,3010,-37.796152 144.961351,Swanston St/Grattan St (Carlton),"-37.800573, 144.964532",0.8 km,4 mins
+169,3011,-37.807101 144.907953,Whitehall St/Napier St (Footscray),"-37.805484, 144.904915",0.5 km,1 min
+219,3012,-37.807135 144.861162,Cromwell Pde/Geelong Rd (West Footscray),"-37.813047, 144.862434",0.8 km,2 mins
+280,3013,-37.814183 144.888686,Yarraville Station/Birmingham St (Yarraville),"-37.816272, 144.889308",0.4 km,3 mins
+336,3015,-37.838242 144.880556,Ross St/Melbourne Rd (Newport),"-37.838074, 144.882437",0.3 km,1 min
+429,3016,-37.863743 144.888461,Gellibrand St/Victoria St (Williamstown),"-37.865163, 144.888005",0.2 km,1 min
+463,3018,-37.86172 144.812736,Fenfield St/Civic Pde (Altona),"-37.862873, 144.812936",0.1 km,1 min
+497,3019,-37.784683 144.854014,Braybrook Shops/Churchill Ave (Braybrook),"-37.786315, 144.852826",0.3 km,2 mins
+536,3020,-37.777204 144.829945,Harvester Rd/Ballarat Rd (Sunshine),"-37.777021, 144.830002",0.2 km,1 min
+706,3021,-37.743361 144.796693,Kate St/Main Rd West (St Albans),"-37.743569, 144.794573",0.2 km,1 min
+834,3022,-37.795937 144.793961,Ardoyne St/Wright St (Sunshine),"-37.795301, 144.825367",3.6 km,6 mins
+942,3023,-37.78272 144.770641,Foleys Rd/Mount Derrimut Rd (Derrimut),"-37.782413, 144.772766",0.2 km,1 min
+1000,3024,-37.75045631 144.649936,Greaves St/Heaths Rd (Werribee),"-37.887458, 144.639108",18.7 km,23 mins
+1090,3025,-37.835562 144.839704,Murphy St/Chambers Rd (Altona North),"-37.834911, 144.842725",0.3 km,1 min
+1118,3026,-37.91624 144.64209,Fitzgerald Rd/Cherry Lane (Laverton North),"-37.84169, 144.78321",20.2 km,17 mins
+1162,3027,-37.932419 144.754147,Wetlands Bvd/Sayers Rd (Truganina),"-37.853533, 144.740202",10.1 km,14 mins
+1197,3028,-37.875066 144.777165,Central Square SC/Merton St (Altona Meadows),"-37.872964, 144.777226",0.2 km,1 min
+1272,3029,-37.837165 144.705831,Morris Rd/Leakes Rd (Truganina),"-37.835894, 144.709676",0.6 km,2 mins
+1570,3030,-37.91624 144.64209,Princes Hwy/Westleigh Dr (Werribee),"-37.915498, 144.638086",0.7 km,2 mins
+1700,3031,-37.79119 144.923403,Epsom Rd/Smithfield Rd (Kensington),"-37.789537, 144.922387",0.8 km,3 mins
+1843,3032,-37.774486 144.897221,Lyric St/Gordon St (Maribyrnong),"-37.781094, 144.891524",1.2 km,3 mins
+1893,3033,-37.74107 144.857638,Parkside Ave/Sterling Dr (Keilor East),"-37.741036, 144.856529",0.1 km,1 min
+1899,3034,-37.761235 144.86194,Ridley Ave/Military Rd (Avondale Heights),"-37.760904, 144.861348",0.4 km,1 min
+1971,3036,-37.705324 144.82246,Overnewton College/30 Overnewton Rd (Keilor),"-37.706741, 144.821323",0.4 km,2 mins
+2088,3037,-37.715579 144.780474,Currie Dr/Kings Rd (Delahey),"-37.712355, 144.778348",0.4 km,1 min
+2106,3038,-37.700454 144.766873,Wentworth Dr/McCubbin Dr (Taylors Lakes),"-37.693703, 144.774675",1.8 km,4 mins
+2193,3039,-37.766184 144.922995,Mt Alexander Rd/Kellaway Ave (Moonee Ponds),"-37.764335, 144.924149",0.4 km,2 mins
+2224,3040,-37.751845 144.902556,McCracken St/Woolley St (Essendon),"-37.75055, 144.903968",0.2 km,1 min
+2290,3041,-37.72674618 144.9011039,Essendon Fields/English St (Airport West),"-37.725689, 144.895014",2.2 km,5 mins
+2328,3042,-37.727529 144.866305,Roberts Rd/Fullarton Rd (Keilor Park),"-37.72832, 144.865916",0.1 km,1 min
+2390,3043,-37.691916 144.888368,School of the Good Shepherd/South Circular Rd (Gladstone Park),"-37.692085, 144.889523",0.1 km,1 min
+2451,3044,-37.731138 144.936356,Pascoe Vale PS/Gaffney St (Pascoe Vale),"-37.731503, 144.937899",0.1 km,1 min
+2486,3045,-37.674739 144.836195,Oaklands Rd/Sunbury Rd (Bulla),"-37.64465, 144.835016",11.3 km,14 mins
+2578,3046,-37.706578 144.927968,Cardinal Rd/Glenroy Rd (Glenroy),"-37.70643, 144.930087",0.2 km,1 min
+2622,3047,-37.681105 144.930247,Waranga Cres/Blair St (Broadmeadows),"-37.682778, 144.927751",0.4 km,1 min
+2687,3048,-37.653917 144.923609,Galvin Ct/Redesdale St (Meadow Heights),"-37.653546, 144.924846",0.4 km,1 min
+2786,3049,-37.673182 144.888492,Tollkeepers Pde/Ardlie St (Attwood),"-37.67314, 144.887872",0.4 km,1 min
+2800,3050,-37.800324 144.954581,Dowling Pl/Wreckyn St (North Melbourne),"-37.801047, 144.953423",0.1 km,1 min
+2804,3051,-37.8006 144.943559,Curzon St/Haines St (North Melbourne),"-37.7986, 144.948459",0.6 km,3 mins
+2812,3052,-37.788996 144.948903,Melbourne Zoo/Poplar Rd (Parkville),"-37.783309, 144.954775",1.6 km,3 mins
+2825,3053,-37.803569 144.966112,Grattan St/Lygon St (Carlton),"-37.801107, 144.966755",0.3 km,1 min
+2831,3054,-37.786971 144.96724,Rathdowne St/Richardson St (Carlton North),"-37.784723, 144.972983",1.1 km,4 mins
+2867,3055,-37.763584 144.942222,Napperby St/Victoria St (Brunswick West),"-37.764279, 144.93994",0.3 km,1 min
+2928,3056,-37.766292 144.960108,Brunswick Railway Station/Victoria St (Brunswick),"-37.766755, 144.960044",0.2 km,1 min
+2955,3057,-37.770012 144.97728,Nicholson St/Glenlyon Rd (Brunswick East),"-37.773405, 144.978833",0.6 km,2 mins
+3029,3058,-37.739901 144.964524,Bell St/McKay St (Coburg),"-37.740864, 144.964183",0.1 km,1 min
+3136,3059,-37.639887 144.879626,Greenvale Village SC/Greenvale Dr (Greenvale),"-37.640142, 144.882064",1.4 km,3 mins
+3238,3060,-37.707326 144.967874,Edward St/Major Rd (Fawkner),"-37.707041, 144.965143",0.2 km,1 min
+3276,3061,-37.666265 144.956763,Russell St/Sydney Rd (Campbellfield),"-37.668345, 144.955339",0.4 km,2 mins
+3284,3062,-37.632986 144.932557,Union Rd/Somerton Rd (Somerton),"-37.642214, 144.943635",2.3 km,5 mins
+3321,3064,-37.546522 144.942199,Polaris Rd/Donnybrook Rd (Mickleham),"-37.539547, 144.936827",1.2 km,1 min
+3460,3065,-37.802608 144.977795,Brunswick St/Johnston St (Fitzroy),"-37.798442, 144.978957",0.5 km,2 mins
+3465,3066,-37.804846 144.986906,Wellington St/Johnston St (Collingwood),"-37.799366, 144.987643",0.7 km,2 mins
+3469,3067,-37.803515 144.998203,Clarke St/Johnston St (Abbotsford),"-37.800626, 145.001817",0.6 km,3 mins
+3490,3068,-37.790974 144.98622,Smith St/Queens Pde (Clifton Hill),"-37.791418, 144.984508",0.2 km,1 min
+3514,3070,-37.774064 144.999745,High St/Bastings St (Northcote),"-37.773858, 144.99845",0.1 km,1 min
+3565,3071,-37.759426 145.007006,St David St/Clarendon St (Thornbury),"-37.760127, 145.005575",0.3 km,1 min
+3614,3072,-37.74247 145.005702,Bruce St/High St (Preston),"-37.742891, 145.003132",0.3 km,1 min
+3732,3073,-37.712474 145.005955,High St/Leamington St (Reservoir),"-37.71312, 145.007641",0.2 km,1 min
+3883,3074,-37.684684 145.006644,Heather Ave/Spring St (Thomastown),"-37.681844, 145.005247",0.5 km,1 min
+3985,3075,-37.66607 145.002679,Kingsway Dr/Edgars Rd (Lalor),"-37.665076, 145.004925",0.3 km,1 min
+4057,3076,-37.643598 145.022137,Memorial Ave/High St (Epping),"-37.644256, 145.026188",0.5 km,2 mins
+4202,3078,-37.778298 145.025853,Mercil Rd/Wingrove St (Alphington),"-37.779096, 145.026354",0.1 km,1 min
+4248,3079,-37.772675 145.048573,The Boulevard/Lower Heidelberg Rd (Ivanhoe East),"-37.771762, 145.049176",0.2 km,1 min
+4320,3081,-37.743008 145.046401,Bonar St/Waterdale Rd (Heidelberg Heights),"-37.744294, 145.047571",0.2 km,1 min
+4356,3082,-37.664858 145.065658,Mill Park Stables SC/Redleap Ave (Mill Park),"-37.667659, 145.063095",0.4 km,1 min
+4417,3083,-37.701346 145.056223,Mt Cooper Dr/Plenty Rd (Bundoora),"-37.702958, 145.056437",0.5 km,2 mins
+4467,3084,-37.744406 145.082685,Sussex Pl/Banyule Rd (Rosanna),"-37.743281, 145.083573",0.2 km,1 min
+4505,3085,-37.724398 145.06988,Grand Ave/Springthorpe Bvd (Macleod),"-37.721491, 145.061603",2.7 km,6 mins
+4539,3086,-37.721328 145.047012,La Trobe University (Bundoora),"-37.717221, 145.044277",0.7 km,3 mins
+4577,3087,-37.711787 145.082426,Watsonia Station/Grace St (Watsonia),"-37.710302, 145.082256",0.2 km,1 min
+4642,3088,-37.700175 145.108339,Greensborough Station/Main St (Greensborough),"-37.702078, 145.106492",0.2 km,1 min
+4691,3089,-37.667713 145.150369,Grassy Flat Rd/Broad Gully Rd (Diamond Creek),"-37.669414, 145.151097",0.3 km,1 min
+4735,3090,-37.668408 145.107802,Howell Rd/Yan Yean Rd (Plenty),"-37.669241, 145.123596",1.8 km,2 mins
+4749,3091,-37.637478 145.136688,Yarrambat PS/Yan Yean Rd (Yarrambat),"-37.640411, 145.132096",0.8 km,2 mins
+4759,3093,-37.73919 145.115208,Beleura Gr/Main Rd (Montmorency),"-37.725633, 145.123195",2.0 km,3 mins
+4789,3094,-37.719759 145.124727,Rattray Rd/Looker Rd (Montmorency),"-37.719918, 145.124269",0.1 km,1 min
+4813,3095,-37.713299 145.158579,Eltham Village Shopping Centre/Main Rd (Eltham),"-37.714801, 145.148324",1.2 km,3 mins
+4838,3096,-37.670851 145.185826,Wattle Glen Station/Heidelberg-Kinglake Rd (Wattle Glen),"-37.664209, 145.182073",1.1 km,2 mins
+4849,3097,-37.695254 145.224204,360 Kangaroo Ground-Warrandyte Rd (Kangaroo Ground),"-37.697888, 145.224067",0.3 km,1 min
+4850,3099,-37.592101 145.192854,Hurstbridge Station/Heidelberg-Kinglake Rd (Hurstbridge),"-37.638261, 145.193699",7.2 km,11 mins
+4877,3101,-37.807397 145.036575,Trinity Grammar School/Charles St (Kew),"-37.807814, 145.035369",0.1 km,1 min
+4895,3102,-37.793805 145.05219,Birdwood St/Kilby Rd (Kew East),"-37.791754, 145.05049",0.4 km,1 min
+4940,3103,-37.811738 145.074116,Whitehorse Rd/Balwyn Rd (Balwyn),"-37.81315, 145.081347",0.7 km,2 mins
+4997,3104,-37.793695 145.081714,Cityview Rd/Doncaster Rd (Balwyn North),"-37.793888, 145.078359",0.3 km,1 min
+5009,3105,-37.772477 145.084806,Hugo St/Thompsons Rd (Bulleen),"-37.777161, 145.086059",1.0 km,3 mins
+5090,3106,-37.758335 145.142675,Church Rd/Reynolds Rd (Templestowe),"-37.760662, 145.143605",0.3 km,1 min
+5156,3107,-37.765225 145.110677,Valerie St/Thompsons Rd (Templestowe Lower),"-37.763871, 145.110252",0.6 km,1 min
+5208,3108,-37.786429 145.125797,Doncaster Junction/Doncaster Rd (Doncaster),"-37.787436, 145.125925",0.3 km,1 min
+5288,3109,-37.784786 145.161649,May St/Blackburn Rd (Doncaster East),"-37.784124, 145.16281",0.2 km,1 min
+5374,3111,-37.794054 145.186334,Mulsanne Way/Mitcham Rd (Donvale),"-37.79791, 145.180663",0.9 km,2 mins
+5459,3113,-37.752123 145.204689,Blair St/Heidelberg-Warrandyte Rd (Warrandyte),"-37.746454, 145.210298",1.0 km,2 mins
+5465,3114,-37.778595 145.212599,Park Orchards Tennis Club/Park Rd (Park Orchards),"-37.77779, 145.21447",0.3 km,1 min
+5533,3115,-37.736734 145.267586,Yarra Rd/Jumping Creek Rd (Wonga Park),"-37.735915, 145.271649",0.4 km,2 mins
+5566,3116,-37.737629 145.313086,Rolloway Rise/Edward Rd (Chirnside Park),"-37.745869, 145.318643",1.7 km,2 mins
+5585,3121,-37.823303 145.001788,Swan St/Punt Rd (Richmond),"-37.824442, 144.989007",1.8 km,7 mins
+5609,3122,-37.822725 145.030602,Elgin Pl/Power St (Hawthorn),"-37.820913, 145.02649",0.5 km,1 min
+5615,3123,-37.829752 145.049415,Tooronga Rd/Airedale Ave (Hawthorn East),"-37.838116, 145.045918",1.1 km,2 mins
+5623,3124,-37.840867 145.068191,Camberwell Rd/Bowen St (Camberwell),"-37.837878, 145.063707",0.6 km,1 min
+5672,3125,-37.851305 145.101,Evans St/Highbury Rd (Burwood),"-37.854356, 145.102147",0.4 km,1 min
+5719,3126,-37.827203 145.075748,Maling Rd/Prospect Hill Rd (Canterbury),"-37.830061, 145.073899",0.4 km,1 min
+5736,3127,-37.825173 145.097236,Canterbury Rd/Union Rd (Surrey Hills),"-37.826367, 145.097252",0.1 km,1 min
+5864,3128,-37.828866 145.122393,Landale St/Station St (Box Hill),"-37.828141, 145.121862",0.1 km,1 min
+5935,3129,-37.806965 145.125084,Wimmera St/Station St (Box Hill North),"-37.806383, 145.12615",0.3 km,1 min
+6026,3130,-37.81805 145.149653,Whitehorse Rd/Station St (Blackburn),"-37.817651, 145.150267",0.1 km,1 min
+6130,3131,-37.817798 145.174489,Springvale Rd/Whitehorse Rd (Nunawading),"-37.818568, 145.17501",0.3 km,1 min
+6153,3132,-37.819222 145.196686,Mitcham Rd/Brunswick Rd (Mitcham),"-37.818202, 145.194536",0.3 km,1 min
+6251,3133,-37.848786 145.192303,Talarno Ave/Morack Rd (Vermont South),"-37.848038, 145.19665",0.4 km,1 min
+6350,3134,-37.823058 145.257929,Brumbys Rd/Warrandyte-Ringwood Rd (Warrandyte South),"-37.759955, 145.234208",10.0 km,16 mins
+6419,3135,-37.819594 145.248209,Alexandra Rd/Dublin Rd (Ringwood East),"-37.817353, 145.247451",0.3 km,1 min
+6451,3136,-37.779876 145.282396,Warrien Rd/Maroondah Hwy (Croydon North),"-37.782367, 145.28475",0.7 km,1 min
+6587,3137,-37.819364 145.313346,Liverpool Rd/Canterbury Rd (Kilsyth),"-37.818332, 145.315785",0.4 km,1 min
+6641,3138,-37.78391 145.322794,Mark St/Hull Rd (Mooroolbark),"-37.783007, 145.323616",0.1 km,1 min
+6667,3139,-37.814506 145.532666,Seville War Memorial/Warburton Hwy (Seville),"-37.777615, 145.460083",10.4 km,11 mins
+6735,3140,-37.759154 145.363185,Summit Rd/Queen Rd (Lilydale),"-37.760212, 145.361852",0.3 km,1 min
+6761,3141,-37.840679 144.991264,Lang St/Punt Rd (South Yarra),"-37.840848, 144.986073",0.7 km,2 mins
+6791,3142,-37.84411 145.017732,St Johns Anglican Church/Orrong Rd (Toorak),"-37.841948, 145.013736",0.5 km,1 min
+6805,3143,-37.858918 145.019393,Armadale Station/Kooyong Rd (Armadale),"-37.857245, 145.02035",0.2 km,1 min
+6820,3144,-37.857443 145.034127,High St/Tooronga Rd (Glen Iris),"-37.858465, 145.041061",0.7 km,2 mins
+6867,3145,-37.873557 145.049328,Waverley Rd/Burke Rd (Malvern East),"-37.875897, 145.048285",0.3 km,1 min
+6898,3146,-37.857116 145.057833,Glen Iris Station/Wills St (Glen Iris),"-37.859221, 145.058375",0.3 km,1 min
+6915,3147,-37.867864 145.092946,Samarinda Ave/High St (Ashburton),"-37.864205, 145.085389",1.0 km,2 mins
+6978,3148,-37.882562 145.090149,Waverley Rd/Warrigal Rd (Chadstone),"-37.879566, 145.090654",0.3 km,1 min
+7044,3149,-37.880748 145.128118,Sherwood Rd/Stephensons Rd (Mount Waverley),"-37.879065, 145.128482",0.2 km,1 min
+7189,3150,-37.914383 145.168834,Drysdale Ct/Brandon Park Dr (Wheelers Hill),"-37.913847, 145.168324",0.1 km,1 min
+7290,3151,-37.85523 145.151119,Blackburn Rd/Burwood Hwy (Burwood East),"-37.852519, 145.149737",0.5 km,1 min
+7395,3152,-37.864951 145.221695,The Knox School/Burwood Hwy (Wantirna South),"-37.863786, 145.218819",0.3 km,1 min
+7442,3153,-37.845116 145.270141,Scoresby Rd/Power Rd (Bayswater),"-37.844389, 145.271211",0.3 km,1 min
+7512,3154,-37.856009 145.31784,Forest Rd/Mountain (east) Hwy (The Basin),"-37.856422, 145.316123",0.3 km,1 min
+7551,3155,-37.861799 145.284418,Park Cres/Boronia Rd (Boronia),"-37.86244, 145.282327",0.2 km,1 min
+7643,3156,-37.917932 145.292895,Windsor Dr/Heritage Way (Lysterfield),"-37.919212, 145.288811",0.5 km,1 min
+7709,3158,-37.910077 145.324468,Kooringal Rd/Tasman Ave (Upwey),"-37.910769, 145.323348",0.1 km,1 min
+7722,3159,-37.921894 145.3892,Charles St/Belgrave-Gembrook Rd (Selby),"-37.914876, 145.37325",2.0 km,3 mins
+7754,3160,-37.935097 145.350821,Lockwood Rd/Mt Morton Rd (Belgrave South),"-37.933051, 145.349797",0.4 km,1 min
+7783,3161,-37.873733 145.019929,Airdrie Rd/Kooyong Rd (Caulfield North),"-37.874269, 145.0172",0.4 km,1 min
+7823,3162,-37.892139 145.023394,Hawthorn Rd/Aileen Ave (Caulfield South),"-37.894569, 145.020237",0.5 km,1 min
+7848,3163,-37.896497 145.057237,Moonya Rd/Koornang Rd (Carnegie),"-37.896286, 145.05565",0.1 km,1 min
+7944,3165,-37.922369 145.059426,East Boundary Rd/Centre Rd (Bentleigh East),"-37.921193, 145.059875",0.4 km,1 min
+8070,3166,-37.902805 145.089719,Queens Ave/Warrigal Rd (Hughesdale),"-37.903987, 145.08619",0.4 km,1 min
+8092,3167,-37.923345 145.087614,Pitt St/Cameron Ave (Oakleigh South),"-37.921261, 145.087699",0.2 km,1 min
+8151,3168,-37.91342 145.12665,Woodside Ave/Clayton Rd (Clayton),"-37.908928, 145.122687",0.7 km,2 mins
+8185,3169,-37.945149 145.115271,Fraser Rd/Clayton Rd (Clayton South),"-37.945901, 145.115772",0.2 km,1 min
+8237,3170,-37.920945 145.167859,Shaftsbury Dr/Wanda St (Mulgrave),"-37.920657, 145.164685",0.3 km,1 min
+8381,3171,-37.944608 145.156783,Rosalie St/Springvale Rd (Springvale),"-37.944593, 145.15378",0.4 km,1 min
+8478,3172,-37.975981 145.13465,Dingley Village Shopping Centre/Centre Dandenong Rd (Dingley Village),"-37.983713, 145.132635",1.1 km,2 mins
+8560,3173,-38.006771 145.164863,Stanley Rd/Westwood Bvd (Keysborough),"-38.004966, 145.168359",0.9 km,2 mins
+8675,3174,-37.966218 145.17877,Memorial Dr/Heatherton Rd (Noble Park),"-37.965269, 145.175869",0.3 km,1 min
+8746,3175,-38.016114 145.208504,226 Hammond Rd (Dandenong South),"-38.017768, 145.204903",0.7 km,3 mins
+8851,3177,-37.990985 145.237462,Holy Family School/96 Power Rd (Doveton),"-37.991136, 145.238711",0.4 km,1 min
+8975,3178,-37.924431 145.241589,Taylors Lane/Bernard Hamilton Way (Rowville),"-37.92317, 145.244293",0.4 km,1 min
+8998,3179,-37.897137 145.222634,Carol St/Borg Cres (Scoresby),"-37.897911, 145.222194",0.2 km,1 min
+9088,3180,-37.893263 145.246731,Carrington PS/Laura Rd (Knoxfield),"-37.891278, 145.247996",0.3 km,1 min
+9107,3181,-37.854683 144.995504,High St/Williams Rd (Prahran),"-37.853563, 145.002445",0.9 km,3 mins
+9138,3182,-37.865322 144.979478,Fawkner St/Barkly St (St Kilda),"-37.864553, 144.981597",0.2 km,1 min
+9158,3183,-37.869072 144.999026,Carlisle St/Hotham St (St Kilda East),"-37.869758, 144.999314",0.1 km,1 min
+9164,3184,-37.881414 144.984034,Elwood College/Glen Huntly Rd (Elwood),"-37.882318, 144.98442",0.1 km,1 min
+9195,3185,-37.891841 145.002571,Nepean Hwy/Rusden St (Elsternwick),"-37.885975, 144.999648",0.8 km,1 min
+9253,3186,-37.915066 144.996329,Munro St/Well St (Brighton),"-37.915573, 144.994513",0.4 km,2 mins
+9342,3187,-37.925371 145.013593,Balfour St/Marriage Rd (Brighton East),"-37.919254, 145.012853",0.8 km,2 mins
+9386,3188,-37.938889 145.007238,Foam St/Willis St (Hampton),"-37.936976, 145.006743",0.4 km,1 min
+9478,3189,-37.942021 145.047802,Avon St/Chapel Rd (Moorabbin),"-37.940794, 145.047957",0.1 km,1 min
+9519,3190,-37.951394 145.038147,Livingston St/Worthing Rd (Highett),"-37.947508, 145.038732",0.5 km,1 min
+9548,3191,-37.956585 145.013472,Masefield Ave/Fernhill Rd (Sandringham),"-37.956781, 145.011409",0.2 km,1 min
+9598,3192,-37.965655 145.0623,Axelton St/Centre Dandenong Rd (Cheltenham),"-37.966291, 145.063367",0.1 km,1 min
+9612,3193,-37.978698 145.031561,Haydens Rd/Balcombe Rd (Beaumaris),"-37.977101, 145.030033",0.3 km,1 min
+9696,3194,-37.985059 145.067356,St Augustines Church/Como Pde (Mentone),"-37.986057, 145.067971",0.1 km,1 min
+9765,3195,-38.007024 145.104105,Spray Ave/Governor Rd (Mordialloc),"-38.0076, 145.102063",0.2 km,1 min
+9817,3196,-38.046479 145.122762,Baxter Ave/Embankment Gr (Chelsea),"-38.04671, 145.121646",0.1 km,1 min
+9885,3197,-38.072748 145.134111,Myola St/McLeod Rd (Patterson Lakes),"-38.072354, 145.13386",0.2 km,1 min
+9942,3198,-38.103194 145.137811,Seaford Rd/Fortescue Ave (Seaford),"-38.110991, 145.130185",1.8 km,4 mins
+10122,3199,-38.162578 145.135961,Margate Ave/Bondi Ave (Frankston),"-38.160557, 145.137685",0.5 km,1 min
+10242,3201,-38.092874 145.177905,Queen Beatrix Dr/Frankston-Dandenong Rd (Carrum Downs),"-38.088433, 145.181112",0.6 km,1 min
+10261,3202,-37.960555 145.092698,Pietro Rd/Kingston Rd (Heatherton),"-37.95522, 145.094558",0.7 km,1 min
+10347,3204,-37.916956 145.036783,Bentleigh Station/Centre Rd (Bentleigh),"-37.918205, 145.037327",0.2 km,1 min
+10394,3205,-37.831693 144.958176,South Melbourne Market/Cecil St (South Melbourne),"-37.83226, 144.957355",0.2 km,2 mins
+10395,3206,-37.846534 144.95086,Albert Park Shops/Richardson St (Albert Park),"-37.844104, 144.951778",0.4 km,2 mins
+10426,3207,-37.832179 144.918044,Leith Cres/Howe Pde (Port Melbourne),"-37.836435, 144.921958",0.8 km,2 mins
+10472,3335,-37.69608887 144.6698898,Quarry Rd/Taylors Rd (Aintree),"-37.716788, 144.657787",3.3 km,3 mins
+10492,3336,-37.719 144.6684,Fields St/Frontier Ave (Aintree),"-37.717876, 144.67225",0.5 km,2 mins
+10583,3337,-37.65724033 144.5462424,Claret Ash Bvd/Arnolds Creek Bvd (Melton West),"-37.667761, 144.548539",2.3 km,6 mins
+10618,3338,-37.705529 144.571033,St Anthonys PS/Wilson Rd (Melton South),"-37.708933, 144.571603",0.5 km,2 mins
+10655,3427,-37.643461 144.707974,Mullock Rd/Welcome Rd (Diggers Rest),"-37.625226, 144.716816",3.2 km,5 mins
+10664,3428,-37.591069 144.811494,Wildwood Rd/Bulla Rd (Bulla),"-37.640766, 144.815512",5.8 km,7 mins
+10673,3429,-37.56762 144.728973,Kismet Park PS/McEwen Dr (Sunbury),"-37.56615, 144.728697",0.2 km,1 min
+10820,3617,-36.423823 145.178369,Oakleigh Station/Portman St (Oakleigh),"-37.899647, 145.088065",206 km,2 hours 23 mins
+10832,3711,-37.41047 145.682161,Buxton Rise/Maroondah Hwy (Buxton),"-37.423151, 145.708796",3.9 km,6 mins
+10833,3712,-37.3209 145.839057,Taggerty-Thornton Rd/Goulburn Valley Hwy (Thornton),"-37.254646, 145.79768",13.0 km,16 mins
+10834,3713,-37.241527 145.90623,Eildon SC/Main St (Eildon),"-37.232629, 145.909664",1.7 km,4 mins
+10835,3714,-37.210538 145.687889,Perkiins St/Grant St (Alexandra),"-37.190962, 145.709077",4.7 km,6 mins
+10838,3750,-37.596078 145.005578,Evolve Esp/Contempo Bvd (Wollert),"-37.610665, 145.014253",2.6 km,5 mins
+10883,3752,-37.619102 145.074353,Waterview Dr/Cravens Rd (Mernda),"-37.61125, 145.080079",1.4 km,4 mins
+10911,3753,-37.476474 144.959512,Greater Beveridge Community Centre/Lithgow St (Beveridge),"-37.471631, 144.955929",1.1 km,2 mins
+10948,3754,-37.593554 145.112985,Cookes Rd/Bridge Inn Rd (Doreen),"-37.601907, 145.106395",1.1 km,3 mins
+11007,3755,-37.563905 145.142035,1670 Plenty Rd (Mernda),"-37.580787, 145.103895",5.0 km,7 mins
+11028,3757,-37.469784 145.182221,Whittlesea PS/Plenty Rd (Whittlesea),"-37.514559, 145.114805",10.0 km,14 mins
+11043,3763,-37.521863 145.353378,Kinglake Police Station/Whittlesea-Kinglake Rd (Kinglake),"-37.531646, 145.340497",2.1 km,3 mins
+11069,3765,-37.814771 145.346621,Kerr Cres/Mt Dandenong Tourist Rd (Montrose),"-37.812662, 145.348187",0.4 km,1 min
+11093,3766,-37.817818 145.384955,Childs Rd/Mt Dandenong Tourist Rd (Kalorama),"-37.815005, 145.381874",0.5 km,1 min
+11105,3767,-37.839387 145.347505,Singleton Reserve/Ridge Rd (Mount Dandenong),"-37.835988, 145.351519",0.6 km,2 mins
+11133,3770,-37.708784 145.416004,St Huberts Rd/Maroondah Hwy (Coldstream),"-37.697522, 145.420602",1.1 km,2 mins
+11135,3775,-37.642852 145.365993,Melba Hwy/Armstrong Gr (Yarra Glen),"-37.652222, 145.377887",1.8 km,3 mins
+11149,3777,-37.606088 145.513804,TarraWarra Museum of Art/Healesville-Yarra Glen Rd (Healesville),"-37.658063, 145.466886",10.0 km,14 mins
+11175,3779,-37.539267 145.784751,Falls Rd/Pack Rd (Marysville),"-37.510883, 145.747136",20.0 km,29 mins
+11184,3781,-37.938471 145.487862,Baker St/Bailey Rd (Cockatoo),"-37.936334, 145.487397",0.5 km,1 min
+11196,3782,-37.938068 145.433024,Emerald Village/Belgrave-Gembrook Rd (Emerald),"-37.932025, 145.440368",1.4 km,3 mins
+11208,3783,-37.947379 145.596576,Clink Rd/Gembrook Rd (Pakenham Upper),"-37.999322, 145.525885",12.0 km,15 mins
+11217,3785,-37.885138 145.316734,1000 Steps/Mount Dandenong Tourist Rd (Tremont),"-37.889827, 145.31841",0.9 km,4 mins
+11226,3786,-37.878188 145.332431,Seaview Ave/Mt Dandenong Tourist Rd (Ferny Creek),"-37.881595, 145.342293",1.4 km,3 mins
+11237,3787,-37.866786 145.350888,The Crescent/Mt Dandenong Tourist Rd (Sassafras),"-37.868524, 145.351681",0.3 km,1 min
+11247,3788,-37.848036 145.377128,Olinda Hall/Olinda-Monbulk Rd (Olinda),"-37.85422, 145.369719",2.0 km,5 mins
+11262,3789,-37.889767 145.357336,Sherbrooke Lodge Rd/Sherbrooke Rd (Sherbrooke),"-37.880511, 145.359498",0.7 km,2 mins
+11271,3791,-37.896917 145.379622,Church Rd/Belgrave-Gembrook Rd (Menzies Creek),"-37.918865, 145.403901",4.6 km,5 mins
+11280,3792,-37.89424 145.405388,The Patch Rd/Kallista-Emerald Rd (The Patch),"-37.891898, 145.390473",1.9 km,3 mins
+11291,3793,-37.874533 145.429715,Emerald-Monbulk Rd/Main Rd (Monbulk),"-37.875687, 145.408505",2.1 km,4 mins
+11302,3795,-37.836663 145.430311,Silvan Recreation Ground/Monbulk Rd (Silvan),"-37.831895, 145.42857",0.5 km,1 min
+11316,3796,-37.786977 145.384922,Joy Ave/Monbulk Rd (Mount Evelyn),"-37.788568, 145.38688",0.3 km,1 min
+11357,3797,-37.867809 145.786343,Upper Yarra Sec Col/Riversdale Rd (Yarra Junction),"-37.79141, 145.623653",18.3 km,17 mins
+11360,3799,-37.727566 145.818512,Millwarra PS/Woods Point Rd (East Warburton),"-37.742091, 145.736098",10.0 km,12 mins
+11387,3800,-37.910545 145.134935,Howleys Rd/Normanby Rd (Clayton),"-37.906277, 145.13787",0.7 km,3 mins
+11438,3802,-37.971763 145.255599,Grove End Rd/Kennington Park Dr (Endeavour Hills),"-37.967625, 145.25389",0.6 km,1 min
+11522,3803,-38.009435 145.265524,Abbott Rd/Hallam South Rd (Hallam),"-38.009544, 145.272521",0.7 km,1 min
+11570,3804,-37.980059 145.325994,Tom Jones Ct/Heatherton Rd (Narre Warren North),"-37.981928, 145.313862",1.3 km,3 mins
+11599,3805,-38.037026 145.304198,Casey Gardens Day Hospital/Fullard Rd (Narre Warren),"-38.030954, 145.304569",0.8 km,1 min
+11681,3806,-38.025018 145.349488,Pioneers Park/Brisbane St (Berwick),"-38.027897, 145.349995",0.7 km,2 mins
+11811,3807,-38.048316 145.371635,Beaconsfield Plaza/Woods St (Beaconsfield),"-38.045326, 145.367404",0.6 km,2 mins
+11879,3809,-38.069094 145.406887,Officer Sec Col/Parker St (Officer),"-38.070429, 145.411191",1.7 km,3 mins
+11949,3810,-38.04658 145.472514,Beaconhills College/Toomuc Valley Rd (Pakenham),"-38.060783, 145.466556",2.0 km,4 mins
+11991,3910,-38.156369 145.198328,Hornsby Dr/Southgateway (Langwarrin),"-38.153372, 145.201674",0.7 km,2 mins
+12049,3911,-38.196908 145.169556,St Kilda St/Baxter-Tooradin Rd (Baxter),"-38.198268, 145.176624",0.6 km,1 min
+12090,3912,-38.217991 145.227373,Cassandra Cl/Eramosa Rd (Somerville),"-38.221969, 145.163912",12.1 km,12 mins
+12101,3913,-38.262273 145.166426,Flinders College/Mornington-Tyabb Rd (Tyabb),"-38.261374, 145.169024",0.3 km,1 min
+12107,3915,-38.305806 145.136622,Wallaroo Pl/Tambar Pl (Hastings),"-38.299072, 145.173817",5.5 km,8 mins
+12127,3916,-38.415199 145.050587,Point Leo Rd/Frankston-Flinders Rd (Shoreham),"-38.407057, 145.065067",1.6 km,2 mins
+12137,3920,-38.38752 145.19304,Disney St/South Beach Rd (Bittern),"-38.354392, 145.166282",5.3 km,8 mins
+12150,3927,-38.383368 145.153269,Coolart Rd/Sandy Point Rd (Somers),"-38.376134, 145.144957",1.5 km,4 mins
+12175,3930,-38.195017 145.093743,Peninsula Grammar/Nepean Hwy (Mount Eliza),"-38.195462, 145.090836",1.1 km,2 mins
+12261,3931,-38.230038 145.049503,Flinders Park/Mornington-Tyabb Rd (Mornington),"-38.232419, 145.046571",0.6 km,2 mins
+12269,3933,-38.261168 145.096992,Coolart Nursery/425 Coolart Rd (Somerville),"-38.20862, 145.157966",10.6 km,12 mins
+12303,3934,-38.2783 145.031598,Balcombe Grammar School/Nepean Hwy (Mount Martha),"-38.273165, 145.033397",0.8 km,1 min
+12341,3936,-38.326447 145.007626,Safety Beach/Country Club Dr (Safety Beach),"-38.328088, 144.98619",2.8 km,3 mins
+12392,3938,-38.354321 144.931834,Navigator St/Flinders St (Mccrae),"-38.355336, 144.933767",0.6 km,2 mins
+12426,3939,-38.42776 144.900413,Rosebud Library/McDowell St (Rosebud),"-38.357255, 144.904851",10.4 km,14 mins
+12499,3940,-38.37363083 144.8754149,Twenty First Ave/Village Glen Dr (Capel Sound),"-38.373933, 144.875719",0.2 km,1 min
+12547,3941,-38.396077 144.827203,Browns Rd/Dundas St (Rye),"-38.395894, 144.816018",1.0 km,1 min
+12574,3943,-38.345527 144.739101,Watson Rd/Coppin Rd (Sorrento),"-38.343666, 144.73942",0.3 km,1 min
+12633,3975,-38.05354 145.231114,Carabeen Way/Moreton Bay Bvd (Lyndhurst),"-38.056632, 145.245246",1.4 km,3 mins
+12666,3976,-38.043995 145.264296,Rendell Pl/Hallam Rd (Hampton Park),"-38.041447, 145.265892",0.6 km,1 min
+12750,3977,-38.1466398 145.2695101,Lesdon Ave/South Gippsland Hwy (Cranbourne),"-38.087691, 145.279041",10.1 km,14 mins
+12899,3978,-38.135009 145.384606,Honour Ave/Berwick-Cranbourne Rd (Clyde North),"-38.081522, 145.334368",10.0 km,16 mins
