@@ -1,0 +1,169 @@
+,Unnamed: 0.1,Unnamed: 0,Postcode,Centroid,Formal Name,Location Address,Suburb,Latitude and Longitude,Distance,Duration
+0,0,1,3000,-37.817403 144.956776,Melbourne Oral and Facial Surgery Pty Ltd,"Level 12, 63 Exhibition Street",Melbourne,"-37.8144815,144.9714769",2.0,9 
+1,1,4,3002,-37.818517 144.982207,East Melbourne Day Procedure Centre,116 - 118 Wellington Parade,East Melbourne,"-37.81621140000001,144.9863185",0.6,3 
+2,2,11,3004,-37.844246 144.970161,Alfred Health,Commercial Road,Melbourne,"-37.8458528,144.9863747",3.6,8 
+3,3,13,3008,-37.814719 144.948039,Specialist Surgicentre Docklands,"Tenancy 2, 22 Rakaia Way",Docklands,"-37.8146343,144.9413047",0.9,3 
+4,4,16,3011,-37.807101 144.907953,Vision Day Surgery Footscray,89 Paisley Street,Footscray,"-37.8006113,144.8950427",1.8,5 
+5,5,20,3016,-37.863743 144.888461,Williamstown Hospital,77b Railway Crescent,Williamstown,"-37.8637942,144.892638",0.6,1 
+6,6,21,3018,-37.86172 144.812736,Hobson's Bay Endoscopy Centre Altona,5 Sargood Street,Altona,"-37.8695719,144.8283957",2.5,5 
+7,7,22,3021,-37.743361 144.796693,St Alban's Endoscopy Centre,328-330 Station Road,St Albans,"-37.7440308,144.7795293",1.8,3 
+8,8,25,3030,-37.91624 144.64209,Hobson's Bay Werribee Endoscopy Centre,179 Princes Highway,Werribee,"-37.890594,144.6864528",5.7,11 
+9,9,28,3032,-37.774486 144.897221,Northwest Day Hospital,221 Maribyrnong Road,Ascot Vale,"-37.77117399999999,144.9094447",2.9,7 
+10,10,29,3036,-37.705324 144.82246,Keilor Private,771 Old Calder Highway,Keilor,"-37.71970719999999,144.8344738",2.7,6 
+11,11,30,3039,-37.766184 144.922995,Essendon Day Procedure Centre,"Level 2, 665 Mount Alexander Road",Moonee Ponds,"-37.7658075,144.9237203",92.0,1 
+12,12,31,3040,-37.751845 144.902556,Essendon Private Clinic,33-35 Rosehill Road,Essendon,"-37.7484696,144.8854029",2.0,4 
+13,13,32,3044,-37.731138 144.936356,Dorset Rehabilitation Centre,146 Derby Street,Pascoe Vale,"-37.7232512,144.9476711",1.9,4 
+14,14,33,3047,-37.681105 144.930247,Broadmeadows Health Service,35 Johnstone St,Broadmeadows,"-37.6843457,144.9128414",2.1,4 
+15,15,36,3050,-37.800324 144.954581,Royal Melbourne Hospital - City Campus,300 Grattan Street,Parkville,"-37.7988753,144.9552898",0.7,3 
+16,16,39,3052,-37.788996 144.948903,The Royal Children's Hospital,50 Flemington Road,Parkville,"-37.7902531,144.9433744",0.7,2 
+17,17,41,3053,-37.803569 144.966112,Dental Health Services Victoria,720 Swanston Street,Carlton,"-37.7993667,144.9652277",0.6,3 
+18,18,42,3054,-37.786971 144.96724,Victorian Sleep Centre,695-697 Rathdowne Street,Carlton North,"-37.7885635,144.9717339",1.4,4 
+19,19,43,3056,-37.766292 144.960108,Brunswick Private Hospital,82 Moreland Road,Brunswick,"-37.756777,144.9714233",2.0,6 
+20,20,44,3058,-37.739901 144.964524,Coburg Endoscopy Centre,15 Munro Street,Coburg,"-37.7451373,144.9647329",0.7,3 
+21,21,46,3064,-37.546522 144.942199,Craigieburn Health Service,350 Craigieburn Road West,Craigieburn,"-37.5930147,144.9140568",11.6,17 
+22,22,47,3065,-37.802608 144.977795,St Vincent's Health,41 Victoria Parade,Fitzroy,"-37.8076983,144.975057",1.0,4 
+23,23,51,3072,-37.74247 145.005702,PANCH Health Service,300 Bell Street,Preston,"-37.7454271,145.0078748",1.0,3 
+24,24,52,3073,-37.712474 145.005955,Reservoir Private Hospital,73-75 Pine Street,Reservoir,"-37.7176593,144.9979749",1.2,4 
+25,25,53,3076,-37.643598 145.022137,The Northern Hospital,185 Cooper Street ,Epping,"-37.6531452,145.0150845",1.7,4 
+26,26,54,3078,-37.778298 145.025853,Darebin Endoscopy Services,42 Station Street,Fairfield,"-37.7810669,145.0173668",1.1,3 
+27,27,55,3079,-37.772675 145.048573,Ivanhoe Endoscopy and Day Procedure Centre,2/226 Upper Heidelberg Road,Ivanhoe,"-37.767005,145.044898",1.2,4 
+28,28,57,3081,-37.743008 145.046401,Austin Health - Heidelberg Repatriation Hospital,300 Waterdale Road,Heidelberg Heights,"-37.7568089,145.0464521",1.9,4 
+29,29,59,3082,-37.664858 145.065658,Southern Cross Specialist Centre Day Surgery,250 Childs Road,Mill Park,"-37.6620076,145.0529121",2.2,4 
+30,30,63,3083,-37.701346 145.056223,Victorian Gut Centre Bundoora,119 Plenty Road,Bundoora,"-37.6924925,145.0616985",1.4,4 
+31,31,66,3084,-37.744406 145.082685,Mercy Hospital for Women,163 Studley Road,Heidelberg,"-37.7560391,145.0611386",2.9,8 
+32,32,68,3088,-37.700175 145.108339,Diamond Valley Renal Care Centre,Grimshaw Street,Greensborough,"-37.7030974,145.088389",2.2,5 
+33,33,70,3101,-37.807397 145.036575,Cotham Private Hospital,209 Cotham Road,Kew,"-37.8085829,145.0480886",1.0,2 
+34,34,75,3107,-37.765225 145.110677,Manningham Day Procedure Centre,"Level 3, 200 High Street",Lower Templestowe,"-37.7735889,145.1152518",1.7,3 
+35,35,76,3111,-37.794054 145.186334,Donvale Rehabilitation Hospital,1119-1121 Doncaster Road,Donvale,"-37.789994,145.1714915",1.8,4 
+36,36,80,3121,-37.823303 145.001788,The Women's Clinic Day Surgical Centre,366 Church Street,Richmond,"-37.8229014,144.9979534",0.6,3 
+37,37,81,3122,-37.822725 145.030602,Glenferrie Private Hospital,25 Linda Crescent,Hawthorn,"-37.8194771,145.0313533",1.4,3 
+38,38,83,3123,-37.829752 145.049415,Vision Day Surgery Camberwell,27 Denmark Hill Road,Hawthorn East,"-37.8324449,145.0555824",0.9,3 
+39,39,84,3124,-37.840867 145.068191,Epworth Rehabilitation Camberwell,888 Toorak Road,Camberwell,"-37.8458631,145.0542881",2.2,4 
+40,40,85,3125,-37.851305 145.101,Delmont Private Hospital,298 Warrigal Road,Burwood,"-37.857031,145.0943339",1.4,2 
+41,41,86,3126,-37.827203 145.075748,Mercy Health - O'Connell Family Centre,6 Mont Albert Road,Canterbury,"-37.8167426,145.0616773",2.3,5 
+42,42,90,3128,-37.828866 145.122393,Vision Day Surgery Eastern,852-856 Whitehorse Road,Box Hill,"-37.8177488,145.1195096",1.6,5 
+43,43,91,3130,-37.81805 145.149653,Bellbird Private Hospital,198 Canterbury Road,Blackburn,"-37.8333161,145.156104",2.6,6 
+44,44,92,3131,-37.817798 145.174489,Forest Hill Dialysis Centre,"Shops 26 & 27 Forest Hill Chase, 69 Mahoneys ",Forest Hill,"-37.8354108,145.1646721",3.3,7 
+45,45,94,3132,-37.819222 145.196686,Mitcham Private Hospital,27 Doncaster East Road,Mitcham,"-37.8104018,145.1949405",2.1,5 
+46,46,95,3133,-37.848786 145.192303,Dr Walters Vasectomy Centre,486 Burwood Highway,Vermont South,"-37.8570427,145.1831856",2.4,5 
+47,47,96,3134,-37.823058 145.257929,Eastside Endoscopy Centre,33 Wantirna Road,Ringwood,"-37.8197766,145.2276901",3.9,8 
+48,48,98,3135,-37.819594 145.248209,Ringwood Private Hospital,36 Mount Dandenong Road,Ringwood,"-37.8116215,145.243789",1.8,4 
+49,49,99,3136,-37.779876 145.282396,Marie Stopes International Maroondah,411 Dorset Road,Croydon,"-37.8090897,145.2886489",4.1,7 
+50,50,100,3140,-37.759154 145.363185,Yarra Ranges Health,25 Market Street,Lilydale,"-37.756521,145.3513794",1.5,4 
+51,51,101,3142,-37.84411 145.017732,Toorak Cosmetic Surgery Day Centre,109 Mathoura Rd ,Toorak,"-37.84135029999999,145.0079609",1.1,4 
+52,52,103,3144,-37.857443 145.034127,Malvern Dialysis Centre,"Ground Floor, 1133 Malvern Road",Malvern,"-37.8514647,145.0306918",1.0,2 
+53,53,106,3145,-37.873557 145.049328,Malvern Private Hospital,3-9 Wilton Vale Crescent,Malvern East,"-37.8670659,145.0607454",2.1,5 
+54,54,108,3149,-37.880748 145.128118,Waverley Private Hospital,343-357 Blackburn Road,Mount Waverley,"-37.8844811,145.1455935",2.3,4 
+55,55,110,3150,-37.914383 145.168834,The Victorian Rehabilitation Centre,499 Springvale Road,Glen Waverley,"-37.8978816,145.1609529",2.3,5 
+56,56,111,3152,-37.864951 145.221695,Knox Private Hospital,262 Mountain Highway,Wantirna,"-37.8493969,145.2271597",3.6,4 
+57,57,113,3153,-37.845116 145.270141,Bayswater Day Procedure and Specialist Centre,664 Mountain Highway,Bayswater,"-37.8422484,145.2629995",1.5,2 
+58,58,114,3155,-37.861799 145.284418,The Melbourne Eastern Private Hospital,157 Scoresby Road,Boronia,"-37.8552294,145.2689362",2.3,5 
+59,59,115,3156,-37.917932 145.292895,Angliss Hospital,Albert Street,Upper Ferntree Gully,"-37.8989287,145.3132882",7.9,12 
+60,60,116,3161,-37.873733 145.019929,Tarietta Day Surgery,73 Kooyong Road,Caulfield North,"-37.8701885,145.0177706",0.6,2 
+61,61,119,3162,-37.892139 145.023394,Glen Eira Day Surgery,554 Hawthorn Road,Caulfield South,"-37.900589,145.0193881",1.2,2 
+62,62,121,3165,-37.922369 145.059426,"Monash Medical Centre, Moorabbin Campus",865 Centre Road,East Bentleigh,"-37.92081770000001,145.0631279",0.9,4 
+63,63,127,3168,-37.91342 145.12665,Sir John Monash Private Hospital,212-220 Clayton Road,Clayton,"-37.9186278,145.1213553",1.4,4 
+64,64,128,3170,-37.920945 145.167859,Mulgrave Private Hospital,535-559 Police Road,Mulgrave,"-37.9385903,145.2121015",6.8,9 
+65,65,129,3171,-37.944608 145.156783,Springvale Endoscopy Services,20 Balmoral Avenue,Springvale,"-37.9494974,145.1495907",1.4,5 
+66,66,130,3174,-37.966218 145.17877,Noble Park Endoscopy Centre,1304 Heatherton Road,Noble Park,"-37.9671065,145.1897207",1.0,2 
+67,67,133,3175,-38.016114 145.208504,Corymbia House,92-94 David Street,Dandenong,"-37.977232,145.21691",5.5,13 
+68,68,139,3181,-37.854683 144.995504,The Avenue Private Hospital,40 The Avenue,Windsor,"-37.8549885,144.9987927",0.3,1 
+69,69,142,3182,-37.865322 144.979478,Marie Stopes International East St Kilda,338 Dandenong Road,St Kilda East,"-37.8603205,145.0076811",3.2,9 
+70,70,143,3183,-37.869072 144.999026,Masada Private Hospital,26-28 Balaclava Road,East St Kilda,"-37.869686,145.0031526",0.5,2 
+71,71,144,3184,-37.881414 144.984034,St Kilda Day Hospital,26A Dickens Street,Elwood,"-37.873151,144.9820731",1.3,3 
+72,72,146,3185,-37.891841 145.002571,Cabrini Hopetoun Rehabilitation,2-4 Hopetoun Street,Elsternwick,"-37.8850002,145.0101521",2.2,6 
+73,73,147,3186,-37.915066 144.996329,Brighton Plastic Surgery Centre,206 New Street,Brighton,"-37.9124808,144.9918634",0.7,3 
+74,74,150,3188,-37.938889 145.007238,Linacre Private Hospital,12-16 Linacre Road,Hampton,"-37.9426749,145.0031863",0.8,2 
+75,75,151,3189,-37.942021 145.047802,Bayside Endoscopy Day Hospital,441 South Road,Moorabbin,"-37.9329457,145.0367547",2.0,4 
+76,76,152,3191,-37.956585 145.013472,Sandringham Hospital,193 Bluff Road,Sandringham,"-37.9610523,145.0182493",1.1,3 
+77,77,153,3192,-37.965655 145.0623,Chesterville Day Hospital,28 Chesterville Road,Cheltenham,"-37.9606602,145.0569606",1.1,5 
+78,78,159,3199,-38.162578 145.135961,Peninsula Oncology Centre,24-28 Frankston-Flinders Road,Frankston,"-38.1544689,145.1329828",1.0,2 
+79,79,163,3204,-37.916956 145.036783,Bentleigh Surgicentre,155 Jasper Road,Bentleigh,"-37.9202672,145.0410907",1.3,3 
+80,80,164,3205,-37.831693 144.958176,Albert Road Clinic,31-33 Albert Road,South Melbourne,"-37.8342645,144.9722408",1.7,7 
+81,81,165,3219,-38.17277 144.389533,The Geelong Clinic,98 Townsend Road,Whittington,"-38.18206259999999,144.3932424",1.4,2 
+82,82,170,3220,-38.157038 144.34652,"St John of God Hospital, Geelong",80 Myers Street,Geelong,"-38.1512687,144.3578621",1.9,5 
+83,83,171,3241,-38.20363 143.892824,Hesse Rural Health Service,8 Gosney Street,Winchelsea,"-38.2432465,143.9855197",9.6,7 
+84,84,172,3250,-38.311513 143.584742,Colac Area Health,2-28 Conner St,Colac,"-38.340993,143.5821532",10.4,12 
+85,85,173,3260,-38.209584 143.244766,"South West Healthcare, Camperdown Campus",9 Robinson Street,Camperdown,"-38.2367864,143.138024",12.3,13 
+86,86,174,3264,-38.232443 142.884394,Terang and Mortlake Health Service,1 Austin Avenue,Terang,"-38.2406102,142.902183",2.1,3 
+87,87,175,3266,-38.407094 143.133721,Cobden District Health Service Inc.,5 Victoria Street,Cobden,"-38.3324437,143.0760836",14.7,13 
+88,88,176,3268,-38.535802 142.908911,Timboon and District Healthcare Service,21 Hospital Road,Timboon,"-38.4861894,142.9768246",13.1,14 
+89,89,177,3280,-38.37884 142.482889,South West Healthcare,Ryot Street,Warrnambool,"-38.3788959,142.4749675",1.1,4 
+90,90,180,3284,-38.270398 142.119266,Moyne Health Services,Villiers Street,Port Fairy,"-38.383194,142.2275249",22.6,20 
+91,91,181,3300,-37.743155 142.013356,Western District Health Service,20 Foster Street,Hamilton,"-37.7371413,142.0305623",1.8,3 
+92,92,182,3304,-38.182084 141.952156,Heywood Rural Health,21 Barclay Street,Heywood,"-38.136992,141.6247148",35.4,30 
+93,93,183,3305,-38.235475 141.437227,Portland District Health,Bentinck Street,Portland,"-38.3453172,141.6063886",22.7,20 
+94,94,184,3311,-37.468159 141.229722,Casterton Memorial Hospital,63-69 Russell Street,Casterton,"-37.5900342,141.3925806",23.0,25 
+95,95,185,3315,-37.408371 141.687516,"Western District Health Service, Coleraine Campus",71 McLeod Street,Coleraine,"-37.5996704,141.6920629",23.5,17 
+96,96,186,3318,-37.025316 141.269571,Grampians Health [Edenhope and District Hospital],128-134 Elizabeth Street,Edenhope,"-37.0356022,141.2888594",2.2,2 
+97,97,187,3337,-37.65724033 144.5462424,Melton Health,195-209 Barries Road,Melton,"-37.68685019999999,144.5576761",5.2,10 
+98,98,188,3340,-37.787135 144.394442,Western Health [Djerriwarrh Health Services],Lot 4 Grant Street,Bacchus Marsh,"-37.6760501,144.4354389",15.0,14 
+99,99,189,3342,-37.651463 144.239102,Ballan District Health and Care,33 Cowie Street,Ballan,"-37.59978479999999,144.2223631",7.5,7 
+100,100,190,3350,-37.571941 143.864505,"St John of God Hospital, Ballarat",101 Drummond Street North,Ballarat,"-37.5582887,143.847369",2.7,5 
+101,101,191,3353,-37.7778 144.835743,Grampians Health [Ballarat Health Services],Drummond Street North,Ballarat,"-37.5554488,143.8484246",98.4,1 hour 11 
+102,102,192,3355,-37.530285 143.82561,Ballarat Day Procedure Centre,1119/1123 Howitt Street,Ballarat,"-37.5408632,143.8321883",3.4,5 
+103,103,193,3373,-37.457785 143.343429,Beaufort and Skipton Health Service,28 Havelock Street,Beaufort,"-37.4309395,143.3823655",5.0,5 
+104,104,194,3377,-37.231524 142.956916,East Grampians Health Service,Lot 5B Girdlestone Street ,Ararat,"-37.2790462,142.9327785",9.2,10 
+105,105,195,3380,-37.0666 142.771159,Grampians Health [Stawell Regional Health],27-29 Sloane Street ,Stawell,"-37.0588492,142.7809009",1.5,3 
+106,106,196,3393,-36.257725 142.387341,Rural Northwest Health,Lot 1 Dimboola Road,Warracknabeal,"-36.2537958,142.3858333",1.1,3 
+107,107,197,3400,-36.725245 142.203729,Grampians Health [Wimmera Health Care Group],83 Baillie Street,Horsham,"-36.7126524,142.2088201",2.1,4 
+108,108,198,3418,-36.074144 141.538074,West Wimmera Health Service,49 Nelson Street,Nhill,"-36.3337613,141.6552195",44.1,34 
+109,109,199,3429,-37.56762 144.728973,Sunbury Day Hospital,Macedon,Sunbury,"-37.5799088,144.7351341",1.9,3 
+110,110,200,3450,-37.061635 144.214903,Dhelkaya Health [Castlemaine Health],142 Cornish Street,Castlemaine,"-37.05223180000001,144.2122356",1.4,3 
+111,111,201,3460,-37.351704 144.144216,Central Highlands Rural Health,13 Hospital Street,Daylesford,"-37.3374196,144.1465291",2.2,5 
+112,112,202,3463,-36.957983 144.05651,Dhelkaya Health [Maldon Hospital],Chapel Street,Maldon,"-36.9910449,144.0636284",4.8,5 
+113,113,203,3465,-37.021478 143.611335,Maryborough District Health Service,75-87 Clarendon St,Maryborough,"-37.0451603,143.7384714",14.1,14 
+114,114,204,3478,-36.688551 143.230699,East Wimmera Health Service,52 North Western Road,St Arnaud,"-36.6095315,143.2466059",11.9,19 
+115,115,205,3490,-35.62103426 141.4849679,Mallee Track Health and Community Service,28 Britt Street,Ouyen,"-35.0745228,142.3124152",169.0,2 hours 10 
+116,116,206,3500,-34.1931 142.154161,Mildura Private Hospital,220 Thirteenth Street,Mildura,"-34.1850441,142.1453769",1.2,2 
+117,117,207,3517,-36.483116 143.886832,Inglewood and District Health Service,3 Hospital Street,Inglewood,"-36.5722632,143.8738929",14.7,16 
+118,118,208,3523,-36.837461 144.768359,Heathcote Health,39 Hospital Street,Heathcote,"-36.9265035,144.7093934",25.2,25 
+119,119,209,3537,-36.079335 143.744455,Boort District Health,31 Kiniry Street,Boort,"-36.1118062,143.7278359",4.7,5 
+120,120,210,3549,-34.766049 142.820973,Robinvale District Health Services,128-132 Latje Road,Robinvale,"-34.5841137,142.7810854",24.6,20 
+121,121,211,3550,-36.764269 144.285267,Appearance Medical Centre,57 Garsed Street,Bendigo,"-36.765123,144.2797671",0.9,4 
+122,122,215,3561,-36.321109 144.709543,Rochester and Elmore District Health Service,1 Pascoe Street,Rochester,"-36.3658135,144.6979363",10.3,13 
+123,123,216,3564,-36.18096611 144.6014151,Echuca Regional Health,9-27 Frances Street,Echuca,"-36.1381961,144.7488192",23.3,20 
+124,124,217,3568,-35.809462 144.184089,Cohuna District Hospital,144-158 King George Street,Cohuna,"-35.8001404,144.214509",4.6,5 
+125,125,218,3579,-35.767974 143.769445,Kerang District Health,13 Burgoyne Street,Kerang,"-35.724085,143.9184734",16.4,14 
+126,126,219,3585,-35.348388 143.336906,Swan Hill District Health,48 Splatt Street,Swan Hill,"-35.3401872,143.556462",27.1,22 
+127,127,220,3608,-36.740713 145.095753,Nagambie HealthCare,22 Church Street,Nagambie,"-36.780532,145.15046",11.4,14 
+128,128,221,3620,-36.284584 145.082735,Kyabram District Health Service,88 Fenaughty Street,Kyabram,"-36.31558,145.0423611",7.3,9 
+129,129,222,3630,-36.380853 145.403176,Goulburn Valley Health,2 Graham Street,Shepparton,"-36.3626385,145.4046543",2.3,4 
+130,130,224,3636,-36.093878 145.479471,NCN Health,2 Katamatitie Road,Numurkah,"-36.0883415,145.442323",7.4,8 
+131,131,225,3660,-37.035925 145.257867,Seymour Health,Lot 2 Bretonneux Street ,Seymour,"-37.0186576,145.139496",15.4,18 
+132,132,226,3666,-36.786777 145.565512,Euroa Health Inc,36 Kennedy Street,Euroa,"-36.7593438,145.5702708",3.5,3 
+133,133,227,3672,-36.554936 145.977761,Benalla Health,45-63 Coster Street,Benalla,"-36.555396,145.9946077",2.0,3 
+134,134,228,3677,-36.358017 146.330564,Northeast Health Wangaratta,35-47 Green Street,Wangaratta,"-36.3543538,146.3142727",2.3,4 
+135,135,231,3690,-36.135717 146.864361,Murray Valley Private Hospital,63 Pearce St ,Wodonga,"-36.1374861,146.8794739",2.8,4 
+136,136,232,3700,-36.335898 147.35527,Tallangatta Health Service,Barree Street,Tallangatta,"-36.2146031,147.1826732",35.5,47 
+137,137,233,3707,-36.586316 148.037958,Corryong Health,20 Kiell Street,Corryong,"-36.1988504,147.9030344",92.9,2 hours 1 
+138,138,234,3714,-37.210538 145.687889,Alexandra District Health,20 Cooper Street,Alexandra,"-37.1940818,145.7172472",5.6,8 
+139,139,235,3717,-37.286611 145.435776,Yea and District Memorial Hospital,45 Station Street,Yea,"-37.213684,145.4308514",15.1,14 
+140,140,236,3722,-37.202634 146.253268,Mansfield District Hospital,53 Highett Street,Mansfield,"-37.05760480000001,146.0865084",35.5,55 
+141,141,237,3730,-36.051782 145.974755,Yarrawonga Health,33 Piper Street,Yarrawonga,"-36.0115157,146.0069717",6.8,8 
+142,142,238,3737,-36.554037 146.82759,Alpine Health,30 O'Donnell Avenue,Myrtleford,"-36.5544039,146.7293605",14.8,18 
+143,143,239,3747,-36.361056 146.725705,Beechworth Health Service,52 Sydney Road,Beechworth,"-36.3498063,146.6907159",4.6,6 
+144,144,240,3749,-36.42031113 146.8638108,Yackandandah Bush Nursing Hospital Inc.,20 Isaacs Avenue,Yackandandah,"-36.3105807,146.8455109",14.8,11 
+145,145,241,3764,-37.263736 144.900644,Kilmore District Health,Rutledge Street,Kilmore,"-37.3004803,144.9528104",7.8,8 
+146,146,242,3777,-37.606088 145.513804,Healesville and District Hospital,377 Maroondah Highway,Healesville,"-37.6468041,145.5289292",10.4,17 
+147,147,243,3806,-38.025018 145.349488,Berwick Surgicentre,22 Langmore Lane,Berwick,"-38.0336851,145.3464527",1.5,4 
+148,148,247,3820,-38.207476 145.922212,West Gippsland Healthcare Group,41 Landsborough Street,Warragul,"-38.1729995,145.9276797",4.6,4 
+149,149,248,3831,-37.993258 146.013136,Neerim District Soldiers Memorial Hospital,29 Main Road,Neerim,"-37.9627552,145.954065",11.9,13 
+150,150,249,3840,-38.245215 146.424457,Maryvale Private Hospital,McDonald Street,Morwell,"-38.2343425,146.4065983",8.6,8 
+151,151,250,3844,-38.316869 146.607101,Latrobe Regional Hospital,Cnr Princes Highway & Village Avenue ,Traralgon West,"-38.2207258,146.4715822",24.4,21 
+152,152,251,3850,-38.224191 147.106181,Central Gippsland Health Service,155 Guthridge Parade,Sale,"-38.1077223,147.0807548",15.2,14 
+153,153,252,3858,-37.3690401 146.8291658,Heyfield Hospital Inc.,21 Tyson Road,Heyfield,"-37.9761299,146.7848101",110.0,1 hour 58 
+154,154,253,3875,-37.826032 147.63201,Bairnsdale Regional Health Service,122 Day St,Bairnsdale,"-37.8313964,147.6077414",2.7,5 
+155,155,254,3888,-37.39051 148.660943,Orbost Regional Health,Boundary Road,Orbost,"-37.7006122,148.4600671",60.4,1 hour 2 
+156,156,255,3898,-37.066169 147.464799,Omeo District Health,12 Easton Street,Omeo,"-37.09841480000001,147.5969877",29.5,37 
+157,157,256,3915,-38.305806 145.136622,The Bays Hospital - Hastings,86 Victoria St,Hastings,"-38.3033477,145.1902384",7.8,12 
+158,158,257,3930,-38.195017 145.093743,"Mount Eliza Rehabilitation, Aged and Palliative Care",33 Jacksons Rd,Mt Eliza,"-38.16815570000001,145.0869529",4.2,7 
+159,159,258,3931,-38.230038 145.049503,Beleura Private Hospital,925 Nepean Highway,Mornington,"-38.2254286,145.0487346",0.9,3 
+160,160,260,3939,-38.42776 144.900413,Rosebud Hospital,1527 Point Nepean Road,Rosebud,"-38.3622539,144.8849173",9.1,12 
+161,161,261,3940,-38.37363083 144.8754149,Rosebud Endoscopy,1537 Point Nepean Road,Rosebud West,"-38.361856,144.883633",1.8,4 
+162,162,262,3953,-38.460127 145.995174,Gippsland Southern Health Service,66 Koonwarra Road,Leongatha,"-38.4874581,145.950678",6.8,7 
+163,163,263,3960,-39.140761 146.360412,South Gippsland Hospital,87 Station Road,Foster,"-38.6588006,146.2061303",75.2,1 hour 31 
+164,164,264,3976,-38.043995 145.264296,The Hampton Park Women's Health Care Centre,2 Warana Drive,Hampton Park,"-38.0315896,145.2684897",1.8,4 
+165,165,265,3977,-38.1466398 145.2695101,Cranbourne Integrated Care Centre,140-154 Sladen Street,Cranbourne,"-38.1132683,145.2810914",7.3,9 
+166,166,266,3981,-38.207298 145.575,Kooweerup Regional Health Service,Rossiter Rd,Kooweerup,"-38.2021198,145.483986",10.0,10 
+167,167,267,3995,-38.578071 145.630713,Bass Coast Health,235 Graham Street,Wonthaggi,"-38.6085912,145.581454",6.2,8 
