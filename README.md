@@ -18,7 +18,7 @@ Group 50:
 - Name: Yan Zhuang
 - Student ID: 1178869
 
-**Research Goal:** My research goal is to determine the appropriate level of rent of an online real estate company, find the most important internal and external features in predicting rental prices, find the top 10 suburbs with the highest predicted growth rate and find the most liveable and affordable suburbs.
+**Research Goal:** Our research goal is to determine the appropriate level of rent of an online real estate company, find the most important internal and external features in predicting rental prices, find the top 10 suburbs with the highest predicted growth rate and find the most liveable and affordable suburbs.
 
 **Timeline:** The timeline for the research area is 2018 - 2025.
 
