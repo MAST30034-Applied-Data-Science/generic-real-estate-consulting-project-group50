@@ -18,9 +18,11 @@ Group 50:
 - Name: Yan Zhuang
 - Student ID: 1178869
 
-**Research Goal:** Our research goal is to determine the appropriate level of rent of an online real estate company, find the most important internal and external features in predicting rental prices, find the top 10 suburbs with the highest predicted growth rate and find the most liveable and affordable suburbs.
+**Research Goal:** Our research goal is to determine the appropriate level of rent for an online real estate company, identify the most important internal and external features in predicting rental prices, find the top 10 suburbs with the highest predicted growth rate, and identify the most liveable and affordable suburbs.
 
-**Timeline:** The timeline for the research area is 2018 - 2025.
+**Timeline:** The dataset used for this research covers the time range from 2018 - 2025.
+
+**Check our presetation slides**: https://docs.google.com/presentation/d/1FbPGqjzqIcC1E6cSGU4DtEIjSSGspWav/edit?usp=sharing&ouid=108056172125562771735&rtpof=true&sd=true
 
 To run the pipeline, please visit the `notebooks` and `models` directory and run the files in order:
 1. `domain_scrape.ipynb`: This notebook scrapes all the internal features on rental property websites in Victoria in 2022.
